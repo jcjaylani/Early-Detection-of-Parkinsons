@@ -1,9 +1,5 @@
 # Early Detection of Parkinson’s Disease
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ## 📖 Overview
 This project investigates whether **proteomic biomarkers** can enable the **early detection of Parkinson’s Disease** using blood samples.  
 
